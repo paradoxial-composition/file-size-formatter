@@ -13,7 +13,7 @@ A simple utility to format file sizes into human-readable formats (e.g., `1024 b
 Install via npm:
 
 ```bash
-npm install file-size-formatter
+npm install simple-file-size-formatter
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ npm install file-size-formatter
 Import the function and use it in your project:
 
 ```typescript
-import { formatFileSize } from 'file-size-formatter';
+import { formatFileSize } from 'simple-file-size-formatter';
 
 const sizeInBytes = 1024;
 console.log(formatFileSize(sizeInBytes)); // Output: "1 KB"

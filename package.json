@@ -1,6 +1,6 @@
 {
-  "name": "file-size-formatter",
-  "version": "1.0.0",
+  "name": "simple-file-size-formatter",
+  "version": "1.0.2",
   "description": "A utility to format file sizes into human-readable formats (e.g., 1024 bytes → 1 KB).",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,9 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paradoxial-composition/simple-file-size-formatter"
+    }
 }
