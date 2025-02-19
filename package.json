@@ -1,0 +1,23 @@
+{
+  "name": "file-size-formatter",
+  "version": "1.0.0",
+  "description": "A utility to format file sizes into human-readable formats (e.g., 1024 bytes → 1 KB).",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "size",
+    "formatter",
+    "utility",
+    "human-readable",
+    "typescript"
+  ],
+  "author": "elbani.othman@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
